@@ -1,0 +1,9 @@
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module1\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb

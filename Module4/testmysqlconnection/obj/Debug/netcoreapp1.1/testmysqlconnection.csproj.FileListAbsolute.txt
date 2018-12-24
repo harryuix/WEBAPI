@@ -1,0 +1,10 @@
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\bin\Debug\netcoreapp1.1\testmysqlconnection.deps.json
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\bin\Debug\netcoreapp1.1\testmysqlconnection.runtimeconfig.json
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\bin\Debug\netcoreapp1.1\testmysqlconnection.runtimeconfig.dev.json
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\obj\Debug\netcoreapp1.1\testmysqlconnection.csprojResolveAssemblyReference.cache
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\obj\Debug\netcoreapp1.1\testmysqlconnection.csproj.CoreCompileInputs.cache
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\obj\Debug\netcoreapp1.1\testmysqlconnection.AssemblyInfo.cs
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\bin\Debug\netcoreapp1.1\testmysqlconnection.dll
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\bin\Debug\netcoreapp1.1\testmysqlconnection.pdb
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\obj\Debug\netcoreapp1.1\testmysqlconnection.dll
+C:\Users\c-hgopalja\Desktop\Web API\work spaces\Module4\testmysqlconnection\obj\Debug\netcoreapp1.1\testmysqlconnection.pdb
